@@ -9,7 +9,7 @@ I Love Java Script And Python
 *   🌍  I'm based in Saudi Arabia
 *   🖥️  See my portfolio at [instagram](http://https://www.instagram.com/z_z5r/)
 *   ✉️  You can contact me at [nnnnddd9@hotmail.com](mailto:nnnnddd9@hotmail.com)
-*   🧠  I'm learning React And Express js
+*   🧠  I'm Learning React And Express js
 
 
 <a href="https://www.twitter.com/PainestX" target="_blank" rel="noreferrer"><img
