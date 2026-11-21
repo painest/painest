@@ -1,1 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c1"><rect x="80" y="110" height="40" width="0">
+      <animate attributeName="width" from="0" to="200" begin="0.4s" dur="0.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="80" y="252" height="40" width="0">
+      <animate attributeName="width" from="0" to="320" begin="2.6s" dur="0.9s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono','Fira Code',SFMono-Regular,Menlo,Consolas,monospace; }
+    .fade { opacity: 0; animation: in .8s ease forwards; }
+    .name { animation-delay: 1.4s; }
+    .role { animation-delay: 3.6s; }
+    .last { animation-delay: 4.4s; }
+    .cursor { animation: in .1s 4.4s forwards, blink 1s 4.5s steps(1) infinite; opacity: 0; }
+    @keyframes in { to { opacity: 1; } }
+    @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+
+  <rect width="1200" height="380" fill="#000000"/>
+  <rect width="1200" height="380" fill="url(#grid)"/>
+  <rect width="1200" height="380" fill="url(#glow)"/>
+
+  <!-- terminal window -->
+  <rect x="40" y="30" width="1120" height="320" rx="14" fill="#0b0b0b" stroke="#2a2a2a" stroke-width="1.5"/>
+  <path d="M40 44a14 14 0 0 1 14-14h1092a14 14 0 0 1 14 14v28H40z" fill="#141414"/>
+  <line x1="40" y1="72" x2="1160" y2="72" stroke="#2a2a2a" stroke-width="1"/>
+  <circle cx="70" cy="51" r="7" fill="#ffffff"/>
+  <circle cx="94" cy="51" r="7" fill="#8a8a8a"/>
+  <circle cx="118" cy="51" r="7" fill="#3a3a3a"/>
+  <text x="600" y="57" text-anchor="middle" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" class="mono" font-size="15" fill="#8a8a8a">bandar@arch: ~</text>
+
+  <!-- line 1 -->
+  <g clip-path="url(#c1)">
+    <text x="80" y="140" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" class="mono" font-size="26" fill="#8a8a8a">$ <tspan fill="#ffffff">whoami</tspan></text>
+  </g>
+
+  <!-- name -->
+  <text x="78" y="225" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" class="mono fade name" font-size="88" font-weight="800" fill="#ffffff" letter-spacing="6">BANDAR</text>
+
+  <!-- line 3 -->
+  <g clip-path="url(#c3)">
+    <text x="80" y="282" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" class="mono" font-size="26" fill="#8a8a8a">$ <tspan fill="#ffffff">cat role.txt</tspan></text>
+  </g>
+  <text x="80" y="322" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" class="mono fade role" font-size="22" fill="#bfbfbf">Developer  ·  Penetration Tester  ·  Arch Linux user</text>
+
+  <!-- cursor -->
+  <rect x="732" y="303" width="13" height="24" fill="#ffffff" class="cursor"/>
+
+  <!-- right side tag -->
+  <text x="1120" y="140" text-anchor="end" font-family="DejaVu Sans Mono, Menlo, Consolas, monospace" class="mono fade last" font-size="16" fill="#5a5a5a">github.com/painest</text>
+</svg>
 
