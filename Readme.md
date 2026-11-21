@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/painest">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hey+there!+I'm+Bandar;20+y%2Fo+%E2%80%A2+I+love+programming;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+IoT;Always+building+something+new" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hey+there!+I'm+Bandar;25+y%2Fo+%E2%80%A2+I+love+programming;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+IoT;Always+building+something+new" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 const bandar = {
   name:     "Bandar",
   username: "painest",
-  age:      20,
+  age:      25,
   passion:  "Programming",
   focus:    ["Web", "Mobile", "Backend", "IoT"],
   motto:    "Keep building. Keep learning."
@@ -101,15 +101,6 @@ const bandar = {
 
 <br/>
 
-<!-- ===================== TROPHIES ===================== -->
-<h2 align="center">Trophies</h2>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=painest&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
-</p>
-
-<br/>
-
 <!-- ===================== SNAKE ===================== -->
 <p align="center">
   <picture>
@@ -128,5 +119,3 @@ const bandar = {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,40:1f1f1f,100:000000&height=120&section=footer" width="100%"/>
 </p>
-
-
