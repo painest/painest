@@ -10,9 +10,7 @@
   <a href="https://twitch.tv/z_z5r"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=painest&style=flat-square&color=000000&label=PROFILE+VIEWS"/>
-</p>
+
 
 <br/>
 
