@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/painest">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hey+there!+I'm+Bandar;25+y%2Fo+%E2%80%A2+I+love+programming;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+IoT;Always+building+something+new" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hey+there!+I'm+Bandar;25+y%2Fo+%E2%80%A2+I+love+programming;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+IoT;Penetration+Tester+%E2%80%A2+Arch+Linux+user;Always+building+something+new" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -31,7 +31,8 @@ const bandar = {
   username: "painest",
   age:      25,
   passion:  "Programming",
-  focus:    ["Web", "Mobile", "Backend", "IoT"],
+  focus:    ["Web", "Mobile", "Backend", "IoT", "Pentesting"],
+  os:       "Arch Linux (btw)",
   motto:    "Keep building. Keep learning."
 };
 ```
@@ -78,7 +79,30 @@ const bandar = {
   <img src="https://img.shields.io/badge/Insomnia-000000?style=for-the-badge&logo=insomnia&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
+
+<p align="center"><sub>SECURITY & PENTESTING</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge"/>
+</p>
+
+<p align="center"><sub>OS & PLATFORMS</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=torproject&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 <br/>
