@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Bandar"/>
+  <img src="https://raw.githubusercontent.com/painest/painest/main/banner.svg" width="100%" alt="Bandar"/>
 </p>
 
 <p align="center">
